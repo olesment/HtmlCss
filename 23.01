@@ -26,3 +26,11 @@ class = .
 You can give multiple classes in one class declaration  = class="center large"> -> this means this has 2 slasses, center and large
 * - selects all elements on a page
 So, an inline element with display: block; is not allowed to have other block elements inside it.
+
+to make width property easier to manupilate its better to add 
+html{
+  box-sizing:border-box;}
+  
+in flex justify-content is responsibler for distributing extra space between flex items
+
+  
