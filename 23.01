@@ -1,1 +1,19 @@
 
+debuigimiseks on hea kasutada css parameetrit outline: 3px solid red; nt. 
+
+{
+color - means text color
+
+}
+
+If you declare same things, the farther down declaration wins
+
+. - is class selector
+
+select specific item within a class.
+.class selector
+example
+.body-text p{
+}
+
+flex item  - everything inside flexbox. 
